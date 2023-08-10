@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frimzreact/static/css/main.501c8aab.css",
+    "main.js": "/frimzreact/static/js/main.93f4ed4e.js",
+    "static/js/787.419af693.chunk.js": "/frimzreact/static/js/787.419af693.chunk.js",
+    "static/media/cl.jpeg": "/frimzreact/static/media/cl.44c62a8de6275c5f3abc.jpeg",
+    "static/media/atten.jpeg": "/frimzreact/static/media/atten.5b89a094c2190cf00d7a.jpeg",
+    "index.html": "/frimzreact/index.html",
+    "main.501c8aab.css.map": "/frimzreact/static/css/main.501c8aab.css.map",
+    "main.93f4ed4e.js.map": "/frimzreact/static/js/main.93f4ed4e.js.map",
+    "787.419af693.chunk.js.map": "/frimzreact/static/js/787.419af693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.501c8aab.css",
+    "static/js/main.93f4ed4e.js"
+  ]
+}
